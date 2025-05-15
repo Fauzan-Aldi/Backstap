@@ -1,4 +1,4 @@
-# Backstab_BOF
+# Backstap BOF
 Ini adalah implementasi Beacon Object File dari Backstab Yaxser untuk digunakan dengan Cobalt Strike. 
 ![image](https://user-images.githubusercontent.com/91164728/157537763-684a4b2c-b677-40ea-af22-33e7fe5bb81d.png)
 
